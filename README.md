@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Tic Tac Toe Game</title>
+  
 </head>
 <body>
 
