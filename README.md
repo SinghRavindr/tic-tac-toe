@@ -21,7 +21,7 @@
     <li>🏆 Automatic win detection</li>
     <li>🤝 Draw detection</li>
     <li>🔄 Reset game option</li>
-     <li>📊 Score tracking</li>
+    
   </ul>
 
   <h2>🛠️ Technologies Used</h2>
@@ -36,6 +36,7 @@
   <ul>
     <li>🤖 Single-player mode with AI</li>
     <li>🎞️ Animations and sound effects</li>
+     <li>📊 Score tracking</li>
   </ul>
 
 </body>
