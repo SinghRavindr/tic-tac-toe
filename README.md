@@ -44,5 +44,5 @@
 
 
 
-<img width="1902" height="933" alt="image" src="https://github.com/user-attachments/assets/08c267aa-0f4d-4619-880d-ad6edd0d60f7" />
+<img width="1908" height="817" alt="image" src="https://github.com/user-attachments/assets/20eef7ba-2376-4d4b-b296-169178acf239" />
 
